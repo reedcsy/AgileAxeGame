@@ -1,0 +1,1 @@
+splash_state = 3; // Move from Hold to Fade Out

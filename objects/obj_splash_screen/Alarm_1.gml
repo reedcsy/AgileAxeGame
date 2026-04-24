@@ -1,0 +1,1 @@
+splash_state = 1; // Move from Black to Fade In
